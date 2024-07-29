@@ -13,6 +13,6 @@
 		"origins-plus-plus:lich/weakened_by_all",
 		"origins-plus-plus:lich/wither_immunity"
 	],
-	"icon":"minecraft:sea_lantern",
+	"icon":"minecraft:nether_star",
 	"impact":3
 }
